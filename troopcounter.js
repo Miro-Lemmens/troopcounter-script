@@ -3,7 +3,7 @@
 // @version      1.0.0
 // @description  troopcounter
 // @author       Egelman
-// @match        https://nl117.grepolis.com/game/*
+// @match        https://nl*.grepolis.com/game/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=grepolis.com
 // ==/UserScript==
 
