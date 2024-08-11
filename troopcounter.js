@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         troopcounter nl117
+// @name         troopcounter
 // @version      1.0.0
 // @description  troopcounter
 // @author       Egelman
